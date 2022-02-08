@@ -1,6 +1,6 @@
-# One-shot Affordance Detection
+# Self-Paced Imbalance Rectification for Class Incremental Learning
 
-PyTorch implementation of our one-shot affordance detection models. This repository contains PyTorch evaluation code, training code and pretrained models.
+PyTorch implementation of our Self-Paced Imbalance Rectification for Class Incremental Learning. This repository contains PyTorch evaluation code, training code and pretrained models.
 
 ## 📋 Table of content
  1. [📎 Paper Link](#1)
