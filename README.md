@@ -67,10 +67,10 @@ This project is for research purpose only, please contact us for the licence of 
 
 
 ```
-@article{luo2021one,
-  title={One-Shot Object Affordance Detection in the Wild},
-  author={Zhai, Wei and Luo, Hongchen and Zhang, Jing and Cao, Yang and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2108.03658},
-  year={2021}
+@misc{2202.03703,
+Author = {Zhiheng Liu and Kai Zhu and Yang Cao},
+Title = {Self-Paced Imbalance Rectification for Class Incremental Learning},
+Year = {2022},
+Eprint = {arXiv:2202.03703},
 }
 ```
